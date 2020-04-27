@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<document colorMatched="YES" propertyAccessControl="none" targetRuntime="iOS.CocoaTouch" toolsVersion="14460.31" type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" useAutolayout="YES" useSafeAreas="YES" useTraitCollections="YES" version="3.0">
+	<device id="retina4_7" orientation="portrait">
+		<adaptation id="fullscreen" />
+	</device>
+	<dependencies>
+		<deployment identifier="iOS" />
+		<plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20" />
+		<capability minToolsVersion="9.0" name="Safe area layout guides" />
+		<capability minToolsVersion="8.0" name="documents saved in the Xcode 8 format" />
+	</dependencies>
+	<scenes />
+</document>
